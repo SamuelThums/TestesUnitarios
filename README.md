@@ -31,7 +31,7 @@ git clone https://github.com/SamuelThums/TestesUnitarios
 
 2. Instale as dependências:
 ```bash
-composer
+https://getcomposer.org/
 ```
 
 3. Execute os testes:
