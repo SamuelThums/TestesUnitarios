@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"FuncoesTest::testIsEven":0.02,"FuncoesTest::testFactorial":0.004,"FuncoesTest::testFactorialNegative":0.004,"FuncoesTest::testIsPalindrome":0.003,"FuncoesTest::testFahrenheitToCelsius":0.003,"FuncoesTest::testCalculateDiscount":0.002,"FuncoesTest::testCalculateDiscountNegative":0.003}}
