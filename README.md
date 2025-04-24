@@ -1,8 +1,8 @@
 # Testes Unitários com PHPUnit
 
-Este repositório foi feito para Testes Unitarios da materia de Engenharia de Software ensinada pelo professor Roberson Junior Fernandes Alves.
-
-Dupla: Samuel F B Thums e Leonardo M B Thums
+Repositório criado por: Samuel F. B. Thums e Leonardo M. B. Thums
+Disciplina: Engenharia de Software
+Professor: Roberson Junior Fernandes Alves
 
 ## 📋 Descrição
 
